@@ -3,3 +3,4 @@ venv
 .vscode
 .idea
 .DS_STORE
+*.pdf
