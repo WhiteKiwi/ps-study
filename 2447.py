@@ -73,3 +73,29 @@ for x in range(n):
             print(' ', end='')
     print()
 """
+
+"""
+# 좌표로 풀어보려고 했는데 TIMEOUT 뜸, 처음 시도
+# 2020-10-18
+# 별 찍기 - 10 2447 https://www.acmicpc.net/problem/2447
+import sys
+
+def check_is_star(x, y, n):
+    if n == 1:
+        return False
+    if (x % n) // (n // 3) == 1 and (y % n) // (n // 3) == 1:
+        return True
+    else:
+        return check_is_star(x, y, n // 3)
+
+
+n = int(sys.stdin.readline())
+
+for x in range(n):
+    for y in range(n):
+        if check_is_star(x, y, n):
+            print(' ', end='')
+        else:
+            print('*', end='')
+    print()
+"""
