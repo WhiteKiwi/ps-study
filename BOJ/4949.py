@@ -1,5 +1,5 @@
 # 2020-10-11
-# 균형잡힌 세상 4949 https://www.acmicpc.net/submit/4949/23164890
+# 균형잡힌 세상 4949 https://www.acmicpc.net/problem/4949
 import sys
 import re
 
