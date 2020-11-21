@@ -17,3 +17,6 @@ https://www.acmicpc.net/problem/11723
 # 2020-11-01
 ### BOJ 나는 친구가 적다 (Large) 16172 \#KMP
 https://www.acmicpc.net/problem/16172
+# 2020-11-22
+### BOJ 소가 정보섬에 올라온 이유 17128 \#구현
+https://www.acmicpc.net/problem/17128
