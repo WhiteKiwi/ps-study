@@ -22,3 +22,6 @@ https://www.acmicpc.net/problem/16172
 https://www.acmicpc.net/problem/17128
 ### BOJ 행성 터널 2887 \#그래프_이론 \#최소_스패닝_트리
 https://www.acmicpc.net/problem/17128
+# 2020-11-29
+### BOJ 벼락치기 14728 \#DP \#배낭문제
+https://www.acmicpc.net/problem/14728
