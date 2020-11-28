@@ -25,3 +25,5 @@ https://www.acmicpc.net/problem/17128
 # 2020-11-29
 ### BOJ 벼락치기 14728 \#DP \#배낭문제
 https://www.acmicpc.net/problem/14728
+### BOJ 평범한 배낭 12865 \#DP \#배낭문제
+https://www.acmicpc.net/problem/12865
