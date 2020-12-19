@@ -40,3 +40,5 @@ https://www.acmicpc.net/problem/1260
 # 2020-12-20
 ### BOJ 민트 초코 20302 \#소수 판정 \#에라토스테네스의 체 \#런타임 에러
 https://www.acmicpc.net/problem/20302
+### BOJ 3대 측정 20299 \#구현
+https://www.acmicpc.net/problem/20299
