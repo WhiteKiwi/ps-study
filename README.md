@@ -42,3 +42,5 @@ https://www.acmicpc.net/problem/1260
 https://www.acmicpc.net/problem/20302
 ### BOJ 3대 측정 20299 \#구현
 https://www.acmicpc.net/problem/20299
+### BOJ 최소 힙 1927 \#Priority Queue
+https://www.acmicpc.net/problem/1927
