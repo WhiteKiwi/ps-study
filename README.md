@@ -44,3 +44,5 @@ https://www.acmicpc.net/problem/20302
 https://www.acmicpc.net/problem/20299
 ### BOJ 최소 힙 1927 \#Priority Queue
 https://www.acmicpc.net/problem/1927
+### BOJ 최대 힙 11279 \#Priority Queue
+https://www.acmicpc.net/problem/11279
