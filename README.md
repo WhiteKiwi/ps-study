@@ -46,3 +46,5 @@ https://www.acmicpc.net/problem/20299
 https://www.acmicpc.net/problem/1927
 ### BOJ 최대 힙 11279 \#Priority Queue
 https://www.acmicpc.net/problem/11279
+### BOJ 절댓값 힙 11286 \#Priority Queue
+https://www.acmicpc.net/problem/11286
