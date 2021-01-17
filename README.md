@@ -49,6 +49,8 @@ https://www.acmicpc.net/problem/11279
 ### BOJ 절댓값 힙 11286 \#Priority Queue
 https://www.acmicpc.net/problem/11286
 
-# 2020-12-20
+# 2021-01-17
 ### BOJ 아우으 우아으이야!! 15922 \#그리디 알고리즘 \#구현 \#스위핑
 https://www.acmicpc.net/problem/15922
+### BOJ 수 분해 1437 \#그리디 알고리즘
+https://www.acmicpc.net/problem/1437
