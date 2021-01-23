@@ -54,3 +54,7 @@ https://www.acmicpc.net/problem/11286
 https://www.acmicpc.net/problem/15922
 ### BOJ 수 분해 1437 \#그리디 알고리즘
 https://www.acmicpc.net/problem/1437
+
+# 2021-01-24
+### CODE_FORCE C. Long Jumps 1472 \#DP
+https://codeforces.com/problemset/problem/1472/C
