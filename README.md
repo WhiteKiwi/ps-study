@@ -58,5 +58,5 @@ https://www.acmicpc.net/problem/1437
 # 2021-01-24
 ### CODE_FORCE C. Long Jumps 1472 \#DP
 https://codeforces.com/problemset/problem/1472/C
-### BOJ 폰트 9997 \#브루트포스 \#비트마스킹 \#재귀 \#TIMEOUT
+### BOJ 폰트 9997 \#브루트포스 \#비트마스킹 \#재귀
 https://www.acmicpc.net/problem/1437
