@@ -2,8 +2,6 @@
 # C. Long Jumps 1472 https://codeforces.com/problemset/problem/1472/C
 import sys
 
-sys.setrecursionlimit(1000000)
-
 t = int(sys.stdin.readline())
 
 for _ in range(t):
