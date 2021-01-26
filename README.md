@@ -60,3 +60,7 @@ https://www.acmicpc.net/problem/1437
 https://codeforces.com/problemset/problem/1472/C
 ### BOJ 폰트 9997 \#브루트포스 \#비트마스킹 \#재귀
 https://www.acmicpc.net/problem/1437
+
+# 2021-01-31
+### BOJ 암호코드 2011 \#DP
+https://www.acmicpc.net/problem/2011
