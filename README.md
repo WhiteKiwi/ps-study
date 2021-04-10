@@ -68,3 +68,7 @@ https://www.acmicpc.net/problem/2011
 # 2021-02-21
 ### BOJ Tidy Numbers (Large) 14791
 https://www.acmicpc.net/problem/14791
+
+# 2021-04-11
+### BOJ 출근 기록 14238
+https://www.acmicpc.net/problem/14238
