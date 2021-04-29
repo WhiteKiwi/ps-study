@@ -1,5 +1,5 @@
 # 2020-01-17
-# 수 분해 1437
+# 수 분해 1437 https://www.acmicpc.net/problem/1437
 import sys
 import math
 

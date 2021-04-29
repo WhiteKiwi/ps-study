@@ -1,5 +1,5 @@
 # 2020-01-17
-# 아우으 우아으이야!! 15922
+# 아우으 우아으이야!! 15922 https://www.acmicpc.net/problem/15922
 import sys
 
 N = int(sys.stdin.readline())
