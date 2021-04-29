@@ -72,3 +72,7 @@ https://www.acmicpc.net/problem/14791
 # 2021-04-11
 ### BOJ 출근 기록 14238
 https://www.acmicpc.net/problem/14238
+
+# 2021-05-02
+### BOJ 뉴스 전하기 1135
+https://www.acmicpc.net/problem/1135
