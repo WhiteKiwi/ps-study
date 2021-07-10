@@ -76,3 +76,7 @@ https://www.acmicpc.net/problem/14238
 # 2021-05-02
 ### BOJ 뉴스 전하기 1135
 https://www.acmicpc.net/problem/1135
+
+# 2021-07-11
+### BOJ Router 15828
+https://www.acmicpc.net/problem/15828
