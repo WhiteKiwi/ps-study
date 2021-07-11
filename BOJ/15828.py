@@ -5,7 +5,7 @@ from collections import deque
 
 N = int(sys.stdin.readline())
 
-queue = deque([])
+queue = deque()
 while(True):
     packet = sys.stdin.readline()
     if (packet == '0\n'):
@@ -19,7 +19,4 @@ while(True):
 if (len(queue) == 0):
     print('empty')
 else:
-    remain_packets = []
-    for packet in queue:
-        remain_packets.append(packet)
-    print(' '.join(remain_packets))
+    print(' '.join(list(queue)))
