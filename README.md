@@ -84,3 +84,7 @@ https://www.acmicpc.net/problem/15828
 # 2021-08-03
 ### BOJ 곱셈 1629 \#Divide_and_Conquer
 https://www.acmicpc.net/problem/1629
+
+# 2021-08-03
+### BOJ 쉬운 계단 수 10844 \#DP
+https://www.acmicpc.net/problem/10844
