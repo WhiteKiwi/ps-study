@@ -80,3 +80,7 @@ https://www.acmicpc.net/problem/1135
 # 2021-07-11
 ### BOJ Router 15828
 https://www.acmicpc.net/problem/15828
+
+# 2021-08-03
+### BOJ 곱셈 1629 \#Divide_and_Conquer
+https://www.acmicpc.net/problem/1629
